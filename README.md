@@ -1,1 +1,1 @@
-###A Backend Boilerplate code for next js, prisma, mongoDB.
+### A Backend Boilerplate code for Next js, prisma, mongoDB.
